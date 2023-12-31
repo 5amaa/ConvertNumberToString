@@ -1,0 +1,14 @@
+C:\Users\Samaa.Ashraf\Documents\Projects\ConvertNumbers\ConvertNumbers\obj\Debug\net6.0\ConvertNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samaa.Ashraf\Documents\Projects\ConvertNumbers\ConvertNumbers\obj\Debug\net6.0\ConvertNumbers.AssemblyInfoInputs.cache
+C:\Users\Samaa.Ashraf\Documents\Projects\ConvertNumbers\ConvertNumbers\obj\Debug\net6.0\ConvertNumbers.AssemblyInfo.cs
+C:\Users\Samaa.Ashraf\Documents\Projects\ConvertNumbers\ConvertNumbers\obj\Debug\net6.0\ConvertNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Samaa.Ashraf\Documents\Projects\ConvertNumbers\ConvertNumbers\bin\Debug\net6.0\ConvertNumbers.exe
+C:\Users\Samaa.Ashraf\Documents\Projects\ConvertNumbers\ConvertNumbers\bin\Debug\net6.0\ConvertNumbers.deps.json
+C:\Users\Samaa.Ashraf\Documents\Projects\ConvertNumbers\ConvertNumbers\bin\Debug\net6.0\ConvertNumbers.runtimeconfig.json
+C:\Users\Samaa.Ashraf\Documents\Projects\ConvertNumbers\ConvertNumbers\bin\Debug\net6.0\ConvertNumbers.dll
+C:\Users\Samaa.Ashraf\Documents\Projects\ConvertNumbers\ConvertNumbers\bin\Debug\net6.0\ConvertNumbers.pdb
+C:\Users\Samaa.Ashraf\Documents\Projects\ConvertNumbers\ConvertNumbers\obj\Debug\net6.0\ConvertNumbers.dll
+C:\Users\Samaa.Ashraf\Documents\Projects\ConvertNumbers\ConvertNumbers\obj\Debug\net6.0\refint\ConvertNumbers.dll
+C:\Users\Samaa.Ashraf\Documents\Projects\ConvertNumbers\ConvertNumbers\obj\Debug\net6.0\ConvertNumbers.pdb
+C:\Users\Samaa.Ashraf\Documents\Projects\ConvertNumbers\ConvertNumbers\obj\Debug\net6.0\ConvertNumbers.genruntimeconfig.cache
+C:\Users\Samaa.Ashraf\Documents\Projects\ConvertNumbers\ConvertNumbers\obj\Debug\net6.0\ref\ConvertNumbers.dll
